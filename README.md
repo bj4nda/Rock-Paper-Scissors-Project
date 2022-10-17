@@ -10,5 +10,4 @@ Rock > Scissors
 What do Callback Functions do, How to add Event Listeners, Why Implement HTML to JS DOM manipulation, Objects literals, .this keyword, Constructors and init() functions. 
 I learnt many things, most importantly, problem solving. There was a lot of issues I dealt with when working with this project. But thanks to strategic planning and completing the project one small task at a time, I was able to finally complete this project.
 <h1> Demo Site </h1>
-https://aquamarine-elf-715eb9.netlify.app
 
